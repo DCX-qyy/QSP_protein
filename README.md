@@ -1,2 +1,2 @@
 # QSP_protein
-QSP database backup
+QSP database backup for QSAP
